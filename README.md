@@ -1,2 +1,2 @@
-# taniabayanivska.github.io
+# TetianaBayanivska.github.io
 Мій перший репозиторій
